@@ -1,4 +1,4 @@
-# Full Stack Laravel ,React.js Developer (codeStar)
+# Full Stack Developer (codeStar)
 - 🔴🔴 Hi, Viewer
 - 👋 This is Obert Manyasa (codeStar)
 - 👨‍💻 I'm a Full Stack Developer
