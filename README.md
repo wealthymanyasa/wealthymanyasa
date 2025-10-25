@@ -1,10 +1,36 @@
 # Full Stack Developer (codeStar)
 - 🔴🔴 Hi, Viewer
-- 👋 This is Obert Manyasa (codeStar)
-- 👨‍💻 I'm a Full Stack Developer
-- 🌱 I’m a Software Engineer (Specializing in 🔴Web Development)
-- 💞️ I’m looking to collaborate: 🚀🚀🚀🚀🚀🚀🚀🚀
-- 📫 How to reach me ... omanyasa@yahoo.com, +263 779 050 634
+### 👋 Hello and Welcome
+
+**Obert Manyasa (CodeStar)**
+
+**NLP / AI Engineer | Full Stack Developer | Language Technology Specialist**
+
+🔹 Building scalable NLP solutions for African low-resource languages
+🔹 Researching morphological analysis and machine translation for Zimbabwe’s official languages
+🔹 Architecting end-to-end systems: Data → Models → Deployment (Web & Mobile)
+🔹 Passionate about open digital linguistic resources and inclusive AI
+
+### 🔍 Current Focus
+
+-   Development of multilingual digital dictionaries and language technology infrastructure
+-   NLP pipelines for Shona, ChiBarwe, and other Zimbabwean languages
+-   MPhil in Computational Linguistics (Morphological Analyser R&D)
+
+### 🤝 Collaboration
+
+Seeking collaboration with:
+
+-   Language institutes
+-   AI researchers
+-   Open-source community
+-   Developers passionate about African NLP
+
+### 📬 Contact
+
+**Email:** [omanyasa@yahoo.com](mailto:omanyasa@yahoo.com)
+**WhatsApp/Cell:** +263 779 050 634
+**Location:** Zimbabwe
 
 
 ### Socials
