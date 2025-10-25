@@ -1,8 +1,7 @@
-# Full Stack Developer (codeStar)
-- 🔴🔴 Hi, Viewer
+ 🔴🔴 Hi, Viewer
 ### 👋 Hello and Welcome
 
-**Obert Manyasa (CodeStar)**
+## **Obert Manyasa (CodeStar)**
 
 **NLP / AI Engineer | Full Stack Developer | Language Technology Specialist**
 
