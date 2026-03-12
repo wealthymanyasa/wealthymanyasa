@@ -28,8 +28,7 @@ Seeking collaboration with:
 ### 📬 Contact
 
 **Email:** [omanyasa@yahoo.com](mailto:omanyasa@yahoo.com)
-**WhatsApp/Cell:** +263 779 050 634
-**Location:** Zimbabwe
+**Locations:** Zimbabwe, South Africa, Remote
 
 
 ### Socials
