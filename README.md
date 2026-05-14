@@ -3,7 +3,7 @@
 
 ## **Obert Manyasa (CodeStar)**
 
-**NLP / AI Engineer | Full Stack Developer | Language Technology Specialist**
+**Software Engineer specializing in African Language NLP and Multilingual Systems**
 
 🔹 Building scalable NLP solutions for African low-resource languages
 🔹 Researching morphological analysis and machine translation for Zimbabwe’s official languages
